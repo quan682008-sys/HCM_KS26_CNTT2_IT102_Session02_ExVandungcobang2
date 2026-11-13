@@ -1,0 +1,4 @@
+﻿Bước 1: Phân tích lỗi
+Việc dùng lẫn lộn [language] và {audience} khiến cách nhận diện biến không thống nhất. Khi tự động thay dữ liệu, chương trình dễ bỏ sót hoặc thay sai biến.
+Bước 2: Đồng bộ biến số
+Prompt sau khi sửa:Hãy viết một bài chia sẻ về Cấu trúc Prompt Tiêu chuẩn & Định dạng bằng ngôn ngữ [NGÔN_NGỮ], dành cho đối tượng [ĐỐI_TƯỢNG]. Nội dung ngắn gọn, dễ hiểu và phù hợp với người đọc.
